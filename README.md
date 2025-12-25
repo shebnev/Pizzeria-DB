@@ -16,7 +16,8 @@
 
 ## Структура БД
 ER-диаграмма во вложении отражает отношения сущностей друг к другу.
-![Uploading image.png…]()
+<img width="1870" height="980" alt="image" src="https://github.com/user-attachments/assets/7c017a5b-2324-454f-b3a4-050186df088c" />
+
 
 
 ## Индексы
