@@ -1,7 +1,7 @@
 BEGIN; -- начало транзакции;
 
 DROP DATABASE IF EXISTS pizzeria;
-CREATE DATABASE IF NOT EXISTS pizzeria;  -- Удалить, если существует, создать и использовать БД pizzeria;
+CREATE DATABASE pizzeria;  -- Удалить, если существует, создать и использовать БД pizzeria;
 USE pizzeria; 
 
 -- Удалить, если существуют, сущности;
